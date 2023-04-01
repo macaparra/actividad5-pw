@@ -4,7 +4,7 @@
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
     <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"> Productos</a>
 </div>
-<button type="button" class="btn btn-primary mb-4" data-bs-toggle="button" aria-pressed="false" autocomplete="off" onclick="frmProducto()">Agregar Nuevo Producto</button>
+<button type="button" class="btn btn-primary mb-4" data-bs-toggle="button" aria-pressed="false" autocomplete="off" onclick="frmProducto()">Agregar Nuevo Producto  <i class="fas fa-plus "></i></button>
 
 <div class="table-responsive">
     <table class="table table-primary" id="tblProductos">

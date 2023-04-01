@@ -2,7 +2,7 @@
 
 <!-- Page Heading -->
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
-    <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"> Nueva Venta</a>
+    <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"> Nueva Venta - Ordenes Abiertas</a>
 </div>
 
 <div class="card text-start">

@@ -4,7 +4,7 @@
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
     <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"> Usuarios</a>
 </div>
-<button type="button" class="btn btn-primary mb-4" data-bs-toggle="button" aria-pressed="false" autocomplete="off" onclick="frmUsuario()">Agregar Nuevo Usuario</button>
+<button type="button" class="btn btn-primary mb-4" data-bs-toggle="button" aria-pressed="false" autocomplete="off" onclick="frmUsuario()">Agregar Nuevo Usuario  <i class="fas fa-plus "></i></button>
 
 <div class="table-responsive">
     <table class="table table-primary" id="tblUsuarios">
